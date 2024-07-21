@@ -1,0 +1,5 @@
+name: GyzzakoServer
+version: '${project.version}'
+main: me.gyzzako.gyzzakoserver.GyzzakoServer
+api-version: '1.20'
+prefix: GyzzakoServer
